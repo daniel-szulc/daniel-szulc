@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daniel-szulc.
 - 🎓 I am an IT engineer and a second degree computer science student at the Faculty of Computer, Electrical and Control Engineering at the University of Zielona Gora.
 - 📚 I have experience in several programming languages including C#, Java, C, C++, JS, Python and more.
-- ⚙ I am deeply interested in game development and designing, and I have been working on many projects.
 - 💡 My passion for technology and problem-solving drives me to continuously learn and develop my skills.
+- - ⚙ I am deeply interested in game development, graphic design, and web development.
 - 🚀 I am constantly seeking new challenges and opportunities to grow both professionally and personally.
 - 🌱 During my spare time, I enjoy playing video games, exploring new technologies, and working on personal projects.
