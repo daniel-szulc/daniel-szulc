@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daniel-szulc.
-- 🎓 I’m a Master of Engineering in Computer Science from the Faculty of Computer, Electrical and Control Engineering at the University of Zielona Góra. 
+- 🎓 I’m a Master of Engineering in Computer Science, and I defended my diploma at the Faculty of Computer, Electrical and Control Engineering at the University of Zielona Góra.
 - 🚀 I have experience in several programming languages including Java, C#, HTML, CSS, JavaScript, TypeScript, Python and more.
 - 💡 Passionate about technology, problem-solving, and continuous learning to further develop my skills.
 - ⚙ Deeply interested in web development, I am constantly expanding my knowledge in frontend and backend technologies. Alongside, I also have a keen interest in game development and graphic design.
