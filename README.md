@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @daniel-szulc.
-- 🎓 I’m a Master of Engineering in Computer Science, and I defended my diploma at the Faculty of Computer, Electrical and Control Engineering at the University of Zielona Góra.
-- 🚀 I have experience in several programming languages including Java, C#, HTML, CSS, JavaScript, TypeScript, Python and more.
-- 💡 Passionate about technology, problem-solving, and continuous learning to further develop my skills.
-- ⚙ Deeply interested in web development, I am constantly expanding my knowledge in frontend and backend technologies. Alongside, I also have a keen interest in game development and graphic design.
-- 🌱 I am constantly seeking new challenges and opportunities to grow both professionally and personally.
-- 📚 Spend my free time working on personal projects, exploring new technologies, playing video games, listening to music, absorbing literature and exploring culinary arts.
-- 👀 Check out my projects on [GitHub](https://github.com/daniel-szulc?tab=repositories) and let's connect to create something awesome!
+## 👋 Hi, I’m @daniel-szulc.
+- 💻 Currently, I work as a **Junior Software Developer**, specializing in **C#, .NET, and JavaScript**.
+- 🎓 I hold a Master of Engineering in Computer Science, having defended my thesis at the Faculty of Computer, Electrical, and Control Engineering at the University of Zielona Góra.
+- 🚀 Passionate about web development, I continuously expand my expertise in both **frontend and backend technologies**.
+- ⚡ In my free time, I explore **React and TypeScript**, working on personal projects to deepen my understanding of modern web technologies.
+- 🔍 I thrive on problem-solving, learning new things, and taking on challenges that push my skills further.
+- 🎨 Besides coding, I have a keen interest in **game development and graphic design**.
+- 📚 When I'm not coding, I enjoy **video games, music, books, and cooking**.
+- 👀 Check out my projects on [GitHub](https://github.com/daniel-szulc?tab=repositories) and let's build something great together!
+
+Let's connect and innovate! 🚀
